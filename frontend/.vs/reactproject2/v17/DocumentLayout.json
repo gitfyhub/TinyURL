@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Source\\Repos\\reactproject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AB4619-8973-5A9A-061C-BDCD0181F009}|reactproject2.esproj|c:\\users\\admin\\source\\repos\\reactproject2\\src\\components\\urlform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E1AB4619-8973-5A9A-061C-BDCD0181F009}|reactproject2.esproj|solutionrelative:src\\components\\urlform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AB4619-8973-5A9A-061C-BDCD0181F009}|reactproject2.esproj|c:\\users\\admin\\source\\repos\\reactproject2\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E1AB4619-8973-5A9A-061C-BDCD0181F009}|reactproject2.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\admin\\Source\\Repos\\reactproject2\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\admin\\Source\\Repos\\reactproject2\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-26T19:48:58.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrlForm.jsx",
+              "DocumentMoniker": "C:\\Users\\admin\\Source\\Repos\\reactproject2\\src\\components\\UrlForm.jsx",
+              "RelativeDocumentMoniker": "src\\components\\UrlForm.jsx",
+              "ToolTip": "C:\\Users\\admin\\Source\\Repos\\reactproject2\\src\\components\\UrlForm.jsx",
+              "RelativeToolTip": "src\\components\\UrlForm.jsx",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-26T19:48:05.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
